@@ -31,5 +31,4 @@ O projeto final se encontra online nesse link: https://course-java-springboot-de
 
 Exemplo de requisição de dados no Postman: 
 
-<img src ="
-https://cdn.discordapp.com/attachments/597897868703170593/881230349932314715/unknown.png"> </img>
+<img src ="https://cdn.discordapp.com/attachments/597897868703170593/881230349932314715/unknown.png"> </img>
